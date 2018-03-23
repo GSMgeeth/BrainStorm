@@ -1,7 +1,8 @@
 // BrainStorm.cpp : Defines the entry point for the console application.
 // project for keeping the brain active
 
-#include "stdafx.h"
+#include <stdio.h>
+#include <iostream>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
